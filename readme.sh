@@ -16,7 +16,15 @@ py_file_diff.py
 py_get_wav_longth.py 
      统计目录下 所有wav的总时长 
 
+py_thread_test.py 
+    测试 多线程 
+py_thread_lock.py
+    多线程 thread  和 锁 lock 的测试 
+
+
 ========================== shell ==================================================
+ssh_pipeline
+    ssh 建立等效性连接  跨机器运行服务 
 
 sh_pre.sh
     shell  目录下所有文件 使用sed处理
